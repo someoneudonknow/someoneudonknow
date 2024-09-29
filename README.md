@@ -18,11 +18,6 @@
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-<h2>✍️ Random Dev Quote</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
 <h2>📊 GitHub Stats</h2>
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=someoneudonknow&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" width="40%" height="200px" />
@@ -38,5 +33,3 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=someoneudonknow&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
