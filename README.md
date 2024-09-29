@@ -30,12 +30,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=someoneudonknow&theme=dark&hide_border=false" alt="GitHub Streak" width="40%" height="200px"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someoneudonknow&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="40%"  height="200px" />
 </p>
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=someoneudonknow&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" width="40%" height="200px" />
-  <img src="https://leetcard.jacoblin.cool/nguyentu550278?theme=dark&font=Pangolin" alt="LeetCode Stats" width="40%" height="200px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=someoneudonknow&theme=dark&hide_border=false" alt="GitHub Streak" width="40%" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someoneudonknow&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="40%" height="200px" />
-</p>
 
 <h2>🏆 GitHub Trophies</h2>
 <p align="center">
