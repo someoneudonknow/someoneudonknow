@@ -1,8 +1,8 @@
-<h1 align="center">🌐 Socials</h1>
+<h2>🌐 Socials</h2>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100035137874604) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-tran-26736a235/) 
 
-<h1 align="center">💻 Tech Stack</h1>
+<h2>💻 Tech Stack</h2>
 <p style="display: flex; column-gap: 10px;">
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -16,12 +16,12 @@
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-<h1>✍️ Random Dev Quote</h1>
+<h2>✍️ Random Dev Quote</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2>📊 GitHub Stats</h2>
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=someoneudonknow&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" width="40%" height="200px" />
   <img src="https://leetcard.jacoblin.cool/nguyentu550278?theme=dark&font=Pangolin" alt="LeetCode Stats" width="40%"  height="200px"/>
@@ -29,7 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someoneudonknow&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="40%"  height="200px" />
 </p>
 
-<h1>🏆 GitHub Trophies</h1>
+<h2>🏆 GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=someoneudonknow&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
