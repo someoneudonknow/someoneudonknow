@@ -2,7 +2,7 @@
 
 <h2>🌐 Socials</h2>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100035137874604) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-tran-26736a235/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100035137874604) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tr%E1%BA%A7n-v%C4%83n-nguy%E1%BB%85n-t%C3%BA-26736a235/) 
 
 <h2>💻 Tech Stack</h2>
 <p style="display: flex; column-gap: 10px;">
